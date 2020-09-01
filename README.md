@@ -1,2 +1,2 @@
-# pank-leht-r-nkaru
+# pank-leht-runkaru
 Panga repo for Mr Henno
